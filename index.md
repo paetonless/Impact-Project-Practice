@@ -47,7 +47,6 @@ body {
   clear: both;
 }
 </style>
-</head>
 <body>
 
 <h2>WE GOT THIS</h2>
