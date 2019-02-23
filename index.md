@@ -22,7 +22,6 @@ body {
   transition: 0.2s;
 }
 </style>
-</head>
 <body>
 
 <div id="header">Header</div>
