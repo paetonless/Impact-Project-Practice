@@ -54,15 +54,15 @@ body {
 <div class="row">
   <div class="column" style="background-color:yellow;">
     <h2>FALL</h2>
-    <p>WE CAN DO THIS</p>
+    <p>Football, Cheer, Girls Swimming, Cross Country</p>
   </div>
   <div class="column" style="background-color:orange;">
     <h2>WINTER</h2>
-    <p>WE CAN DO THIS</p>
+    <p>Basketball, Bowling, Cheer, Boys Swimming</p>
   </div>
   <div class="column" style="background-color:red;">
     <h2>SPRING</h2>
-    <p>WE CAN DO THIS</p>
+    <p>Track, Tennis</p>
   </div>
 </div>
 
