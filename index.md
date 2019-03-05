@@ -49,19 +49,19 @@ body {
 </style>
 <body>
 
-<h2>WE GOT THIS</h2>
+<h2>CAMAS BARSTOOL SPORTS</h2>
 
 <div class="row">
   <div class="column" style="background-color:yellow;">
-    <h2>POSITIVE THOUGHTS</h2>
+    <h2>FALL</h2>
     <p>WE CAN DO THIS</p>
   </div>
   <div class="column" style="background-color:orange;">
-    <h2>POSITIVE THOUGHTS</h2>
+    <h2>WINTER</h2>
     <p>WE CAN DO THIS</p>
   </div>
   <div class="column" style="background-color:red;">
-    <h2>POSITIVE THOUGHTS</h2>
+    <h2>SPRING</h2>
     <p>WE CAN DO THIS</p>
   </div>
 </div>
