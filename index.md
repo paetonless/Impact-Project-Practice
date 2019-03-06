@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html>
 <title>Camas Barstool</title>
 <meta charset="UTF-8">
@@ -33,17 +33,17 @@
     <!-- Header -->
 <header class="w3-container w3-center w3-padding-32"> 
   <h1><b>CHS SPORTS</b></h1>
-  <p><span class="w3-tag">Featured</span></p>
+  <p><span class="w3-tag">My Feed</span></p>
 </header>
 
 <!-- Grid -->
 <div class="w3-row">
-
+<center>
 <!-- Blog entries -->
 <div class="w3-col l8 s12">
   <!-- Blog entry -->
   <div class="w3-card-4 w3-margin w3-white">
-    <img src="https://assets.alignable.com/users/pictures/square/2072164/1540888382_a0f71565f898ee339e55b16442846e31.jpeg?1540888382" alt="Ernie" style="width:100%">
+    <img src="https://assets.alignable.com/users/pictures/square/2072164/1540888382_a0f71565f898ee339e55b16442846e31.jpeg?1540888382" alt="Ernie" style="width:75%">
     <div class="w3-container">
       <h3><b>Lacamas Magazine</b></h3>
       <h5>Paeton Lesser & Grace Benjamin, <span class="w3-opacity">April 7, 2014</span></h5>
@@ -83,6 +83,7 @@
       </div>
     </div>
   </div>
+ </center>
 
   
 
